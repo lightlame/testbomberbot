@@ -4,5 +4,4 @@ websockets
 pymongo
 dnspython
 requests
-random
 colorama
